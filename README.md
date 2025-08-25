@@ -215,7 +215,7 @@ Go to our Jupyter Lab / Marimo site, at [https://civ-marimo.de](https://civ-mari
 That's 14 of the
 [35 keywords in Python](https://docs.python.org/3.12/reference/lexical_analysis.html#keywords)
 
-!(keywords.png)[{static}images/keywords.png]
+![keywords.png]({static}images/keywords.png)
 
 ## Built-in functions you encountered
 
@@ -230,7 +230,7 @@ That's 5 of the
 
 I only use 22 of those 71 regularly.
 
-!(keywords.png)[{static}images/builtins.png]
+![keywords.png]({static}images/builtins.png)
 
 ## String functions you encountered
 
