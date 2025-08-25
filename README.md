@@ -99,7 +99,7 @@ I have to look things up all the time!
 Being able to write code is really a general skill that is likely to be of
 use to you no matter what your occupation is.
 
-Everyone was a complete beginner.
+_Everyone_ was once a complete beginner.
 
 ## Course aims
 
