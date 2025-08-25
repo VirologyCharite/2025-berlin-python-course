@@ -56,10 +56,9 @@ That's 14 of the
 * print
 * set
 
-That's 5 of the
-[71 builtins in Python](https://docs.python.org/3.12/library/functions.html#built-in-funcs)
-
-I only use 22 of those 71 regularly.
+That's five of the
+[71 builtins in Python](https://docs.python.org/3.12/library/functions.html#built-in-funcs). Of those, 
+I only use 22 regularly.
 
 ![builtins](./images/builtins.png)
 
