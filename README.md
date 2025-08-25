@@ -15,8 +15,6 @@ the rest of your career. It’s impossible to learn everything about programming
 in a week, but it is possible to take the crucial first steps and to make them
 stick.
 
-[Here is the repo](https://github.com/VirologyCharite/2025-berlin-python-course).
-
 ## Why I teach this course
 
 This course takes 2% of my year.
