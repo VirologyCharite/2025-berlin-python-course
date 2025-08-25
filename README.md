@@ -23,16 +23,8 @@ This course takes 2% of my year.
 
 I put in a constant effort, and you get a super power forever.
 
-But, you _have to_ have the right attitude!
-
-And, you have to believe what I tell you. I have 45+ years of programming
-experience and you have zero :-)
-
-You are in fact very close to being programmers, you just don't know it.
-
-Knowing how to program is like having a super power.
-
-Programming gives you a tool that you can use to make other tools.
+It's like having a super power because programming gives you a tool that you can
+use to make other tools.
 
 Information processing is fundamental. Evolution shapes us to efficiently
 process information. Now we've reached the point where a species can build
@@ -41,42 +33,19 @@ process information however we like. It's quite extraordinary.  Working
 with information is somehow so fundamental.  It's like math, only even more
 general.
 
-## Programming is actually pretty simple
+Being able to write code is really a general skill that is likely to be of
+use to you no matter what your occupation is.
 
-It's all just common sense. Think about how you would do something in the
-real world, then do that in the computer.
+But, you _have to_ have the right attitude!
 
-Things that make programming seem hard are: weird names, weird details,
-frozen accidents.
+And, you have to believe what I tell you. I have 45+ years of programming
+experience and you have zero :-)
 
-Programming is often dressed up to look harder than it is. People with
-knowledge making themselves seem important and protecting their positions.
+You are in fact already very close to being programmers, you just don't know it.
 
-It might look like there are big differences between you and others in
-the class, but that's not the case at all. Not in what you already know
-and not in your aptitude, since what's mainly needed is clear thinking and
-common sense.
+## General comments on learning to program
 
-If you don't understand something, probably half the people in the room
-don't either. Please speak up!
-
-There are _very few_ control flow things (if/then/else, looping).
-
-There are _very few_ data structures (lists, sets, dictionaries).
-
-These things are just fancy names for things you have been doing every day
-for your entire life.
-
-Almost all programs start out and then grow in the same way. From something
-very simple.  From an itch. They always look complex when you arrive late,
-after many incremental rounds of development.
-
-Many things are packaged up, easy to install, well documented, and show
-example usage.
-
-All programming languages are (more or less) the same.
-
-## General comments on programming
+_Everyone_ was once a complete beginner.
 
 It's actually *really great* to know nothing and to have no background.
 There is no stronger position. No one assumes things about you, there are
@@ -94,12 +63,9 @@ You'll always be piecemeal too. It means you'll always have holes, people will
 always know more than you do. It means you'll complement others and vice
 versa. Be humble, be useful.
 
+I make mistakes all the time!
+
 I have to look things up all the time!
-
-Being able to write code is really a general skill that is likely to be of
-use to you no matter what your occupation is.
-
-_Everyone_ was once a complete beginner.
 
 ## Course aims
 
@@ -141,6 +107,41 @@ This is just one example of trading better understanding for better ease-of-use.
 There are many more. I am not showing you the shell. There are many, many
 packages. There are many graphics packages. You could have AI write all the
 course code (bit we won't).
+
+## Programming is actually pretty simple
+
+It's almost all just common sense. Think about how you would do something in the
+real world, then do that in the computer.
+
+Things that make programming seem hard are: weird names, weird details,
+frozen accidents.
+
+Programming is often dressed up to look harder than it is. People with
+knowledge making themselves seem important and protecting their positions.
+
+It might look like there are big differences between you and others in
+the class, but that's not the case at all. Not in what you already know
+and not in your aptitude, since what's mainly needed is clear thinking and
+common sense.
+
+If you don't understand something, probably half the people in the room
+don't either. Please speak up!
+
+There are _very few_ control flow things (if/then/else, looping).
+
+There are _very few_ data structures (lists, sets, dictionaries).
+
+These things are just fancy names for things you have been doing every day
+for your entire life.
+
+Almost all programs start out and then grow in the same way. From something
+very simple.  From an itch. They always look complex when you arrive late,
+after many incremental rounds of development.
+
+Many things are packaged up, easy to install, well documented, and show
+example usage.
+
+All programming languages are (more or less) the same.
 
 ## Thinking clearly about how we do things
 
