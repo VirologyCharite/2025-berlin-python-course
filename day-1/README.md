@@ -16,9 +16,9 @@
 
 ## Syntax you encountered
 
-* =
-* ==
-* ()
+* `=` Used for assignment (`a = 3`).
+* `==` Used for testing if two things are equal (`if a == 3:`).
+* `()` To build a tuple (`a = (4, 5, 6)`) or to pass arguments to a function (`calculate("*", 3, 4)`).
 * []
 * {}
 * ,
