@@ -2,6 +2,43 @@
 # vowels = "aeiou"
 
 
+def count_vowels(word):
+    # I need to know the vowels
+
+    # I need to keep track of the count
+
+    # I need to examine every letter in the word
+    # For each letter, if it's a vowel, add one to the count
+
+    # At the end, return the total count
+
+
+def count_vowels_generic_variable_names(things):
+    # This function has variables with not-very-useful generic names, like "things" and
+    # "thing" and "targets".
+    targets = "aeiou"
+    answer = 0
+
+    for thing in things:
+        if thing in targets:
+            answer += 1
+
+    return answer
+
+
+# Write a function that counts the number of vowels in a word
+# and returns the total count.
+def count_vowels(word):
+    vowels = "aeiou"
+    answer = 0
+
+    for letter in word:
+        if letter in vowels:
+            answer += 1
+
+    return answer
+
+
 def count_vowels_1(word):
     vowels = "aeiou"
     answer = 0
