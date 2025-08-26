@@ -1,4 +1,3 @@
-
 def evaluate(fields):
     value1, operator, value2 = fields
 

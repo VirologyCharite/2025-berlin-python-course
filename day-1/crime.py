@@ -20,11 +20,13 @@ for line in mybook:
 highest_count = 0
 most_frequent_word = None
 
-
 for word, count in word_count_dictionary.items():
     # print(word, count)
     if count > highest_count:
         most_frequent_word = word
         highest_count = count
 
-print(f"The most common word is {most_frequent_word!r} with count", highest_count)
+if most_frequent_word is None:
+    print("Your input file was empty!")
+else:
+    print(f"The most common word is {most_frequent_word!r} with count", highest_count)

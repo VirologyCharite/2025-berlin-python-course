@@ -155,6 +155,7 @@ If you can make a cake, you can certainly learn to program.
 * There is "flow of control" (just like in real life).
 * There are "variables" (just like in Excel or when writing things down).
 * You can `import` things (like taking a cookbook of recipes off the shelf).
+* Indexing of lists starts at zero.
 
 ### Things to say:
 
