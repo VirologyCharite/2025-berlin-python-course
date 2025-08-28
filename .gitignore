@@ -12,3 +12,8 @@ wheels/
 admin
 .DS_Store
 Zhongwei/*.txt
+
+# Files that are used in running day-4/check-pubmed.py
+day-4/authors.txt
+day-4/false-positive-pmids.txt
+day-4/pmids.txt
