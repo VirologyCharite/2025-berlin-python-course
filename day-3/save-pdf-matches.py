@@ -6,6 +6,10 @@ from pprint import pprint
 def save_matches(filename, matches):
     print(f"Saving {len(matches)} matches found on pages in {filename}.")
 
+    assert len(filename) > 4, "Filename is too short!"
+    assert filename.endswith(".pdf"), "Filename does not contain .pdf"
+    assert filename.count(".pdf") == 1
+
     text_filename = filename.replace(".pdf", ".txt")
 
     with open(text_filename, "w") as file_object:
