@@ -32,7 +32,6 @@ def update_pmids(filename, known_pmids):
 
 def main():
     YOUR_EMAIL = "tcj25@cam.ac.uk"
-    AUTHOR_NAME = "Jones, Terry C."
 
     PMIDS_FILE = "pmids.txt"
     FALSE_POSITIVES_FILE = "false-positive-pmids.txt"
