@@ -1,0 +1,10 @@
+fontsize = 18
+horizontal_gap = 7.0
+vertical_gap = 5.0
+divider_gap = 20.0
+
+[colors]
+A = "red"
+C = "green"
+G = "purple"
+U = "blue"
