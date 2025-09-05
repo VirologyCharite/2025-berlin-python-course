@@ -1,0 +1,353 @@
+Found 50 publications
+================================================================================
+
+1. Early Complications After Mild to Moderate Ischemic Stroke and Impact on 3-Month Outcome: The Multicenter Prospective Stroke Unit Plus Cohort Study.
+   Authors: Sobesky Jan, Madai Vince Istvan, Zweynert Sarah, Malsch Carolin, Nabavi Darius Guenther, Audebert Heinrich J, Kleinschnitz Christoph, Mackert Bruno Marcel, Schmitz Bettina, Wollenweber Frank Arne, Haeusler Karl Georg, Wellwood Ian, Wiedmann Silke, Endres Matthias, Dirnagl Ulrich, Meisel Andreas, Heuschmann Peter Ulrich
+   Journal: Journal of the American Heart Association
+   Date: 2025 Feb 18
+   PMID: 39921500
+   URL: https://pubmed.ncbi.nlm.nih.gov/39921500/
+
+2. External validation of AI-based scoring systems in the ICU: a systematic review and meta-analysis.
+   Authors: Rockenschaub Patrick, Akay Ela Marie, Carlisle Benjamin Gregory, Hilbert Adam, Wendland Joshua, Meyer-Eschenbach Falk, Näher Anatol-Fiete, Frey Dietmar, Madai Vince Istvan
+   Journal: BMC medical informatics and decision making
+   Date: 2025 Jan 06
+   PMID: 39762808
+   URL: https://pubmed.ncbi.nlm.nih.gov/39762808/
+
+3. The authors reply.
+   Authors: Rockenschaub Patrick, Madai Vince Istvan, Frey Dietmar
+   Journal: Critical care medicine
+   Date: 2024 Dec 01
+   PMID: 39637279
+   URL: https://pubmed.ncbi.nlm.nih.gov/39637279/
+
+4. The Impact of Multi-Institution Datasets on the Generalizability of Machine Learning Prediction Models in the ICU.
+   Authors: Rockenschaub Patrick, Hilbert Adam, Kossen Tabea, Elbers Paul, von Dincklage Falk, Madai Vince Istvan, Frey Dietmar
+   Journal: Critical care medicine
+   Date: 2024 Nov 01
+   PMID: 38958568
+   URL: https://pubmed.ncbi.nlm.nih.gov/38958568/
+
+5. Perfusion parameter map generation from TOF-MRA in stroke using generative adversarial networks.
+   Authors: Lohrke Felix, Madai Vince Istvan, Kossen Tabea, Aydin Orhun Utku, Behland Jonas, Hilbert Adam, Mutke Matthias Anthony, Bendszus Martin, Sobesky Jan, Frey Dietmar
+   Journal: NeuroImage
+   Date: 2024 Sep
+   PMID: 39117094
+   URL: https://pubmed.ncbi.nlm.nih.gov/39117094/
+
+6. Automated detection of early signs of irreversible ischemic change on CTA source images in patients with large vessel occlusion.
+   Authors: Mak Adrian, Matouk Charles C, Avery Emily W, Behland Jonas, Haider Stefan P, Frey Dietmar, Madai Vince I, Vajkoczy Peter, Griessenauer Christoph J, Zand Ramin, Hendrix Philipp, Abedi Vida, Sanelli Pina C, Falcone Guido J, Petersen Nils, Sansing Lauren H, Sheth Kevin N, Payabvash Seyedmehdi, Malhotra Ajay
+   Journal: PloS one
+   Date: 2024
+   PMID: 38870240
+   URL: https://pubmed.ncbi.nlm.nih.gov/38870240/
+
+7. The unmet promise of trustworthy AI in healthcare: why we fail at clinical translation.
+   Authors: Bürger Valerie K, Amann Julia, Bui Cathrine K T, Fehr Jana, Madai Vince I
+   Journal: Frontiers in digital health
+   Date: 2024
+   PMID: 38698888
+   URL: https://pubmed.ncbi.nlm.nih.gov/38698888/
+
+8. A trustworthy AI reality-check: the lack of transparency of artificial intelligence products in healthcare.
+   Authors: Fehr Jana, Citro Brian, Malpani Rohit, Lippert Christoph, Madai Vince I
+   Journal: Frontiers in digital health
+   Date: 2024
+   PMID: 38455991
+   URL: https://pubmed.ncbi.nlm.nih.gov/38455991/
+
+9. Long-term trajectories of community integration: identification, characterization, and prediction using inpatient rehabilitation variables.
+   Authors: Garcia-Rudolph Alejandro, Sauri Joan, Cisek Katryna, Kelleher John D, Madai Vince Istvan, Frey Dietmar, Opisso Eloy, Tormos Josep María, Bernabeu Montserrat
+   Journal: Topics in stroke rehabilitation
+   Date: 2023 Oct
+   PMID: 36934334
+   URL: https://pubmed.ncbi.nlm.nih.gov/36934334/
+
+10. Personalised simulation of hemodynamics in cerebrovascular disease: lessons learned from a study of diagnostic accuracy.
+   Authors: Behland Jonas, Madai Vince I, Aydin Orhun U, Akay Ela M, Kossen Tabea, Hilbert Adam, Sobesky Jan, Vajkoczy Peter, Frey Dietmar
+   Journal: Frontiers in neurology
+   Date: 2023
+   PMID: 37771452
+   URL: https://pubmed.ncbi.nlm.nih.gov/37771452/
+
+11. Enhancing the prediction for shunt-dependent hydrocephalus after aneurysmal subarachnoid hemorrhage using a machine learning approach.
+   Authors: Frey Dietmar, Hilbert Adam, Früh Anton, Madai Vince Istvan, Kossen Tabea, Kiewitz Julia, Sommerfeld Jenny, Vajkoczy Peter, Unteroberdörster Meike, Zihni Esra, Brune Sophie Charlotte, Wolf Stefan, Dengler Nora Franziska
+   Journal: Neurosurgical review
+   Date: 2023 Aug 19
+   PMID: 37596512
+   URL: https://pubmed.ncbi.nlm.nih.gov/37596512/
+
+12. Artificial Intelligence for Clinical Decision Support in Acute Ischemic Stroke: A Systematic Review.
+   Authors: Akay Ela Marie Z, Hilbert Adam, Carlisle Benjamin G, Madai Vince I, Mutke Matthias A, Frey Dietmar
+   Journal: Stroke
+   Date: 2023 Jun
+   PMID: 37216446
+   URL: https://pubmed.ncbi.nlm.nih.gov/37216446/
+
+13. Machine Learning-Based Identification of Target Groups for Thrombectomy in Acute Stroke.
+   Authors: Quandt Fanny, Flottmann Fabian, Madai Vince I, Alegiani Anna, Küpper Clemens, Kellert Lars, Hilbert Adam, Frey Dietmar, Liebig Thomas, Fiehler Jens, Goyal Mayank, Saver Jeffrey L, Gerloff Christian, Thomalla Götz, Tiedt Steffen, GSR investigators and the VISTA-Endovascular Collaborators
+   Journal: Translational stroke research
+   Date: 2023 Jun
+   PMID: 35670996
+   URL: https://pubmed.ncbi.nlm.nih.gov/35670996/
+
+14. Expectations and attitudes towards medical artificial intelligence: A qualitative study in the field of stroke.
+   Authors: Amann Julia, Vayena Effy, Ormond Kelly E, Frey Dietmar, Madai Vince I, Blasimme Alessandro
+   Journal: PloS one
+   Date: 2023
+   PMID: 36630325
+   URL: https://pubmed.ncbi.nlm.nih.gov/36630325/
+
+15. Image-to-image generative adversarial networks for synthesizing perfusion parameter maps from DSC-MR images in cerebrovascular disease.
+   Authors: Kossen Tabea, Madai Vince I, Mutke Matthias A, Hennemuth Anja, Hildebrand Kristian, Behland Jonas, Aslan Cagdas, Hilbert Adam, Sobesky Jan, Bendszus Martin, Frey Dietmar
+   Journal: Frontiers in neurology
+   Date: 2022
+   PMID: 36703627
+   URL: https://pubmed.ncbi.nlm.nih.gov/36703627/
+
+16. A deep learning analysis of stroke onset time prediction and comparison to DWI-FLAIR mismatch.
+   Authors: Akay Ela Marie Z, Rieger Jana, Schöttler Ricardo, Behland Jonas, Schymczyk Raphael, Khalil Ahmed A, Galinovic Ivana, Sobesky Jan, Fiebach Jochen B, Madai Vince I, Hilbert Adam, Frey Dietmar
+   Journal: NeuroImage. Clinical
+   Date: 2023
+   PMID: 38000188
+   URL: https://pubmed.ncbi.nlm.nih.gov/38000188/
+
+17. Predicting models for arm impairment: External validation of the Scandinavian models and identification of new predictors in post-acute stroke settings.
+   Authors: García-Rudolph Alejandro, Soriano Ignasi, Becerra Helard, Madai Vince Istvan, Frey Dietmar, Opisso Eloy, Tormos Josep María, Bernabeu Montserrat
+   Journal: NeuroRehabilitation
+   Date: 2023
+   PMID: 37248917
+   URL: https://pubmed.ncbi.nlm.nih.gov/37248917/
+
+18. Generating evidence on privacy outcomes to inform privacy risk management: A way forward?
+   Authors: Strech Daniel, Haven Tamarinde, Madai Vince I, Meurers Thierry, Prasser Fabian
+   Journal: Journal of biomedical informatics
+   Date: 2023 Jan
+   PMID: 36462598
+   URL: https://pubmed.ncbi.nlm.nih.gov/36462598/
+
+19. Assessing Trustworthy AI in Times of COVID-19: Deep Learning for Predicting a Multiregional Score Conveying the Degree of Lung Compromise in COVID-19 Patients.
+   Authors: Allahabadi Himanshi, Amann Julia, Balot Isabelle, Beretta Andrea, Binkley Charles, Bozenhard Jonas, Bruneault Frederick, Brusseau James, Candemir Sema, Cappellini Luca Alessandro, Chakraborty Subrata, Cherciu Nicoleta, Cociancig Christina, Coffee Megan, Ek Irene, Espinosa-Leal Leonardo, Farina Davide, Fieux-Castagnet Genevieve, Frauenfelder Thomas, Gallucci Alessio, Giuliani Guya, Golda Adam, van Halem Irmhild, Hildt Elisabeth, Holm Sune, Kararigas Georgios, Krier Sebastien A, Kuhne Ulrich, Lizzi Francesca, Madai Vince I, Markus Aniek F, Masis Serg, Mathez Emilie Wiinblad, Mureddu Francesco, Neri Emanuele, Osika Walter, Ozols Matiss, Panigutti Cecilia, Parent Brendan, Pratesi Francesca, Moreno-Sanchez Pedro A, Sartor Giovanni, Savardi Mattia, Signoroni Alberto, Sormunen Hanna-Maria, Spezzatti Andy, Srivastava Adarsh, Stephansen Annette F, Theng Lau Bee, Tithi Jesmin Jahan, Tuominen Jarno, Umbrello Steven, Vaccher Filippo, Vetter Dennis, Westerlund Magnus, Wurth Renee, Zicari Roberto V
+   Journal: IEEE transactions on technology and society
+   Date: 2022 Dec
+   PMID: 36573115
+   URL: https://pubmed.ncbi.nlm.nih.gov/36573115/
+
+20. Correction: On the usage of average Hausdorff distance for segmentation performance assessment: hidden error when used for ranking.
+   Authors: Aydin Orhun Utku, Taha Abdel Aziz, Hilbert Adam, Khalil Ahmed A, Galinovic Ivana, Fiebach Jochen B, Frey Dietmar, Madai Vince Istvan
+   Journal: European radiology experimental
+   Date: 2022 Oct 31
+   PMID: 36315317
+   URL: https://pubmed.ncbi.nlm.nih.gov/36315317/
+
+21. Anatomical labeling of intracranial arteries with deep learning in patients with cerebrovascular disease.
+   Authors: Hilbert Adam, Rieger Jana, Madai Vince I, Akay Ela M, Aydin Orhun U, Behland Jonas, Khalil Ahmed A, Galinovic Ivana, Sobesky Jan, Fiebach Jochen, Livne Michelle, Frey Dietmar
+   Journal: Frontiers in neurology
+   Date: 2022
+   PMID: 36341105
+   URL: https://pubmed.ncbi.nlm.nih.gov/36341105/
+
+22. Similar admission NIHSS may represent larger tissue-at-risk in patients with right-sided versus left-sided large vessel occlusion.
+   Authors: Mak Adrian, Matouk Charles, Avery Emily W, Behland Jonas, Frey Dietmar, Madai Vince Istvan, Vajkoczy Peter, Malhotra Ajay, Abou Karam Anthony, Sanelli Pina, Falcone Guido J, Petersen Nils H, Sansing Lauren, Sheth Kevin N, Payabvash Seyedmehdi
+   Journal: Journal of neurointerventional surgery
+   Date: 2022 Oct
+   PMID: 34645705
+   URL: https://pubmed.ncbi.nlm.nih.gov/34645705/
+
+23. You Can't Have AI Both Ways: Balancing Health Data Privacy and Access Fairly.
+   Authors: Bak Marieke, Madai Vince Istvan, Fritzsche Marie-Christine, Mayrhofer Michaela Th, McLennan Stuart
+   Journal: Frontiers in genetics
+   Date: 2022
+   PMID: 35769991
+   URL: https://pubmed.ncbi.nlm.nih.gov/35769991/
+
+24. Comparing Poor and Favorable Outcome Prediction With Machine Learning After Mechanical Thrombectomy in Acute Ischemic Stroke.
+   Authors: Mutke Matthias A, Madai Vince I, Hilbert Adam, Zihni Esra, Potreck Arne, Weyland Charlotte S, Möhlenbruch Markus A, Heiland Sabine, Ringleb Peter A, Nagel Simon, Bendszus Martin, Frey Dietmar
+   Journal: Frontiers in neurology
+   Date: 2022
+   PMID: 35693017
+   URL: https://pubmed.ncbi.nlm.nih.gov/35693017/
+
+25. Toward Sharing Brain Images: Differentially Private TOF-MRA Images With Segmentation Labels Using Generative Adversarial Networks.
+   Authors: Kossen Tabea, Hirzel Manuel A, Madai Vince I, Boenisch Franziska, Hennemuth Anja, Hildebrand Kristian, Pokutta Sebastian, Sharma Kartikey, Hilbert Adam, Sobesky Jan, Galinovic Ivana, Khalil Ahmed A, Fiebach Jochen B, Frey Dietmar
+   Journal: Frontiers in artificial intelligence
+   Date: 2022
+   PMID: 35586223
+   URL: https://pubmed.ncbi.nlm.nih.gov/35586223/
+
+26. Generating 3D TOF-MRA volumes and segmentation labels using generative adversarial networks.
+   Authors: Subramaniam Pooja, Kossen Tabea, Ritter Kerstin, Hennemuth Anja, Hildebrand Kristian, Hilbert Adam, Sobesky Jan, Livne Michelle, Galinovic Ivana, Khalil Ahmed A, Fiebach Jochen B, Frey Dietmar, Madai Vince I
+   Journal: Medical image analysis
+   Date: 2022 May
+   PMID: 35231850
+   URL: https://pubmed.ncbi.nlm.nih.gov/35231850/
+
+27. The impact of COVID-19 on home, social, and productivity integration of people with chronic traumatic brain injury or stroke living in the community.
+   Authors: García-Rudolph Alejandro, Saurí Joan, Cegarra Blanca, Opisso Eloy, Tormos Josep María, Frey Dietmar, Madai Vince Istvan, Bernabeu Montserrat
+   Journal: Medicine
+   Date: 2022 Feb 25
+   PMID: 35212272
+   URL: https://pubmed.ncbi.nlm.nih.gov/35212272/
+
+28. To explain or not to explain?-Artificial intelligence explainability in clinical decision support systems.
+   Authors: Amann Julia, Vetter Dennis, Blomberg Stig Nikolaj, Christensen Helle Collatz, Coffee Megan, Gerke Sara, Gilbert Thomas K, Hagendorff Thilo, Holm Sune, Livne Michelle, Spezzatti Andy, Strümke Inga, Zicari Roberto V, Madai Vince Istvan, Z-Inspection initiative
+   Journal: PLOS digital health
+   Date: 2022 Feb
+   PMID: 36812545
+   URL: https://pubmed.ncbi.nlm.nih.gov/36812545/
+
+29. Long-term trajectories of motor functional independence after ischemic stroke in young adults: Identification and characterization using inpatient baseline assessments.
+   Authors: García-Rudolph Alejandro, Saurí Joan, Cegarra Blanca, Madai Vince Istvan, Frey Dietmar, Kelleher John D, Cisek Katryna, Opisso Eloy, Tormos Josep María, Bernabeu Montserrat
+   Journal: NeuroRehabilitation
+   Date: 2022
+   PMID: 35147566
+   URL: https://pubmed.ncbi.nlm.nih.gov/35147566/
+
+30. The impact of coronavirus disease 2019 on emotional and behavioral stress of informal family caregivers of individuals with stroke or traumatic brain injury at chronic phase living in a Mediterranean setting.
+   Authors: Garcia-Rudolph Alejandro, Sauri Joan, Garcia-Molina Alberto, Cegarra Blanca, Opisso Eloy, Tormos Josep Maria, Frey Dietmar, Madai Vince Istvan, Bernabeu Montserrat
+   Journal: Brain and behavior
+   Date: 2022 Jan
+   PMID: 34910375
+   URL: https://pubmed.ncbi.nlm.nih.gov/34910375/
+
+31. Toward Personalized Web-Based Cognitive Rehabilitation for Patients With Ischemic Stroke: Elo Rating Approach.
+   Authors: Garcia-Rudolph Alejandro, Opisso Eloy, Tormos Jose M, Madai Vince Istvan, Frey Dietmar, Becerra Helard, Kelleher John D, Bernabeu Guitart Montserrat, López Jaume
+   Journal: JMIR medical informatics
+   Date: 2021 Nov 10
+   PMID: 34757325
+   URL: https://pubmed.ncbi.nlm.nih.gov/34757325/
+
+32. Outcome prediction in aneurysmal subarachnoid hemorrhage: a comparison of machine learning methods and established clinico-radiological scores.
+   Authors: Dengler Nora Franziska, Madai Vince Istvan, Unteroberdörster Meike, Zihni Esra, Brune Sophie Charlotte, Hilbert Adam, Livne Michelle, Wolf Stefan, Vajkoczy Peter, Frey Dietmar
+   Journal: Neurosurgical review
+   Date: 2021 Oct
+   PMID: 33474607
+   URL: https://pubmed.ncbi.nlm.nih.gov/33474607/
+
+33. Neuropsychological Assessments of Patients With Acquired Brain Injury: A Cluster Analysis Approach to Address Heterogeneity in Web-Based Cognitive Rehabilitation.
+   Authors: García-Rudolph Alejandro, García-Molina Alberto, Opisso Eloy, Tormos Josep María, Madai Vince I, Frey Dietmar, Bernabeu Montserrat
+   Journal: Frontiers in neurology
+   Date: 2021
+   PMID: 34434163
+   URL: https://pubmed.ncbi.nlm.nih.gov/34434163/
+
+34. An evaluation of performance measures for arterial brain vessel segmentation.
+   Authors: Aydin Orhun Utku, Taha Abdel Aziz, Hilbert Adam, Khalil Ahmed A, Galinovic Ivana, Fiebach Jochen B, Frey Dietmar, Madai Vince Istvan
+   Journal: BMC medical imaging
+   Date: 2021 Jul 16
+   PMID: 34271876
+   URL: https://pubmed.ncbi.nlm.nih.gov/34271876/
+
+35. A precision medicine framework for personalized simulation of hemodynamics in cerebrovascular disease.
+   Authors: Frey Dietmar, Livne Michelle, Leppin Heiko, Akay Ela M, Aydin Orhun U, Behland Jonas, Sobesky Jan, Vajkoczy Peter, Madai Vince I
+   Journal: Biomedical engineering online
+   Date: 2021 May 01
+   PMID: 33933080
+   URL: https://pubmed.ncbi.nlm.nih.gov/33933080/
+
+36. Synthesizing anonymized and labeled TOF-MRA patches for brain vessel segmentation using generative adversarial networks.
+   Authors: Kossen Tabea, Subramaniam Pooja, Madai Vince I, Hennemuth Anja, Hildebrand Kristian, Hilbert Adam, Sobesky Jan, Livne Michelle, Galinovic Ivana, Khalil Ahmed A, Fiebach Jochen B, Frey Dietmar
+   Journal: Computers in biology and medicine
+   Date: 2021 Apr
+   PMID: 33618105
+   URL: https://pubmed.ncbi.nlm.nih.gov/33618105/
+
+37. On the usage of average Hausdorff distance for segmentation performance assessment: hidden error when used for ranking.
+   Authors: Aydin Orhun Utku, Taha Abdel Aziz, Hilbert Adam, Khalil Ahmed A, Galinovic Ivana, Fiebach Jochen B, Frey Dietmar, Madai Vince Istvan
+   Journal: European radiology experimental
+   Date: 2021 Jan 21
+   PMID: 33474675
+   URL: https://pubmed.ncbi.nlm.nih.gov/33474675/
+
+38. Predictive models for independence after stroke rehabilitation: Maugeri external validation and development of a new model.
+   Authors: García-Rudolph Alejandro, Bernabeu Montserrat, Cegarra Blanca, Saurí Joan, Madai Vince Istvan, Frey Dietmar, Opisso Eloy, Tormos Josep María
+   Journal: NeuroRehabilitation
+   Date: 2021
+   PMID: 34542037
+   URL: https://pubmed.ncbi.nlm.nih.gov/34542037/
+
+39. Hybrid modelling for stroke care: Review and suggestions of new approaches for risk assessment and simulation of scenarios.
+   Authors: Herrgårdh Tilda, Madai Vince I, Kelleher John D, Magnusson Rasmus, Gustafsson Mika, Milani Lili, Gennemark Peter, Cedersund Gunnar
+   Journal: NeuroImage. Clinical
+   Date: 2021
+   PMID: 34000646
+   URL: https://pubmed.ncbi.nlm.nih.gov/34000646/
+
+40. Explainability for artificial intelligence in healthcare: a multidisciplinary perspective.
+   Authors: Amann Julia, Blasimme Alessandro, Vayena Effy, Frey Dietmar, Madai Vince I, Precise4Q consortium
+   Journal: BMC medical informatics and decision making
+   Date: 2020 Nov 30
+   PMID: 33256715
+   URL: https://pubmed.ncbi.nlm.nih.gov/33256715/
+
+41. BRAVE-NET: Fully Automated Arterial Brain Vessel Segmentation in Patients With Cerebrovascular Disease.
+   Authors: Hilbert Adam, Madai Vince I, Akay Ela M, Aydin Orhun U, Behland Jonas, Sobesky Jan, Galinovic Ivana, Khalil Ahmed A, Taha Abdel A, Wuerfel Jens, Dusek Petr, Niendorf Thoralf, Fiebach Jochen B, Frey Dietmar, Livne Michelle
+   Journal: Frontiers in artificial intelligence
+   Date: 2020
+   PMID: 33733207
+   URL: https://pubmed.ncbi.nlm.nih.gov/33733207/
+
+42. Opening the black box of artificial intelligence for clinical decision support: A study predicting stroke outcome.
+   Authors: Zihni Esra, Madai Vince Istvan, Livne Michelle, Galinovic Ivana, Khalil Ahmed A, Fiebach Jochen B, Frey Dietmar
+   Journal: PloS one
+   Date: 2020
+   PMID: 32251471
+   URL: https://pubmed.ncbi.nlm.nih.gov/32251471/
+
+43. Brain iron and metabolic abnormalities in C19orf12 mutation carriers: A 7.0 tesla MRI study in mitochondrial membrane protein-associated neurodegeneration.
+   Authors: Dusek Petr, Mekle Ralf, Skowronska Marta, Acosta-Cabronero Julio, Huelnhagen Till, Robinson Simon Daniel, Schubert Florian, Deschauer Marcus, Els Antje, Ittermann Bernd, Schottmann Gudrun, Madai Vince I, Paul Friedemann, Klopstock Thomas, Kmiec Tomasz, Niendorf Thoralf, Wuerfel Jens, Schneider Susanne A
+   Journal: Movement disorders : official journal of the Movement Disorder Society
+   Date: 2020 Jan
+   PMID: 31518459
+   URL: https://pubmed.ncbi.nlm.nih.gov/31518459/
+
+44. Diagnostic and prognostic benefit of arterial spin labeling in subacute stroke.
+   Authors: Thamm Thoralf, Zweynert Sarah, Piper Sophie K, Madai Vince I, Livne Michelle, Martin Steve Z, Herzig Cornelius X, Mutke Matthias A, Siebert Eberhard, Liebig Thomas, Sobesky Jan
+   Journal: Brain and behavior
+   Date: 2019 May
+   PMID: 30912272
+   URL: https://pubmed.ncbi.nlm.nih.gov/30912272/
+
+45. The choice of embedding media affects image quality, tissue R<sub>2</sub><sup>*</sup> , and susceptibility behaviors in post-mortem brain MR microscopy at 7.0T.
+   Authors: Dusek Petr, Madai Vince Istvan, Huelnhagen Till, Bahn Erik, Matej Radoslav, Sobesky Jan, Niendorf Thoralf, Acosta-Cabronero Julio, Wuerfel Jens
+   Journal: Magnetic resonance in medicine
+   Date: 2019 Apr
+   PMID: 30506939
+   URL: https://pubmed.ncbi.nlm.nih.gov/30506939/
+
+46. A U-Net Deep Learning Framework for High Performance Vessel Segmentation in Patients With Cerebrovascular Disease.
+   Authors: Livne Michelle, Rieger Jana, Aydin Orhun Utku, Taha Abdel Aziz, Akay Ela Marie, Kossen Tabea, Sobesky Jan, Kelleher John D, Hildebrand Kristian, Frey Dietmar, Madai Vince I
+   Journal: Frontiers in neuroscience
+   Date: 2019
+   PMID: 30872986
+   URL: https://pubmed.ncbi.nlm.nih.gov/30872986/
+
+47. A PET-Guided Framework Supports a Multiple Arterial Input Functions Approach in DSC-MRI in Acute Stroke.
+   Authors: Livne Michelle, Madai Vince I, Brunecker Peter, Zaro-Weber Olivier, Moeller-Hartmann Walter, Heiss Wolf-Dieter, Mouridsen Kim, Sobesky Jan
+   Journal: Journal of neuroimaging : official journal of the American Society of Neuroimaging
+   Date: 2017 Sep
+   PMID: 28207200
+   URL: https://pubmed.ncbi.nlm.nih.gov/28207200/
+
+48. Multiparametric Model for Penumbral Flow Prediction in Acute Stroke.
+   Authors: Livne Michelle, Kossen Tabea, Madai Vince I, Zaro-Weber Olivier, Moeller-Hartmann Walter, Mouridsen Kim, Heiss Wolf-Dieter, Sobesky Jan
+   Journal: Stroke
+   Date: 2017 Jul
+   PMID: 28630234
+   URL: https://pubmed.ncbi.nlm.nih.gov/28630234/
+
+49. Walsh-ordered hadamard time-encoded pseudocontinuous ASL (WH pCASL).
+   Authors: von Samson-Himmelstjerna Federico, Madai Vince Istvan, Sobesky Jan, Guenther Matthias
+   Journal: Magnetic resonance in medicine
+   Date: 2016 Dec
+   PMID: 26714671
+   URL: https://pubmed.ncbi.nlm.nih.gov/26714671/
+
+50. Correction for Susceptibility Distortions Increases the Performance of Arterial Spin Labeling in Patients with Cerebrovascular Disease.
+   Authors: Madai Vince I, Martin Steve Z, von Samson-Himmelstjerna Federico C, Herzig Cornelius X, Mutke Matthias A, Wood Carla N, Thamm Thoralf, Zweynert Sarah, Bauer Miriam, Hetzer Stefan, Günther Matthias, Sobesky Jan
+   Journal: Journal of neuroimaging : official journal of the American Society of Neuroimaging
+   Date: 2016 Jul
+   PMID: 26902457
+   URL: https://pubmed.ncbi.nlm.nih.gov/26902457/
+

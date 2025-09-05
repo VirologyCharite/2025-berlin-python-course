@@ -1,0 +1,23 @@
+import marimo
+
+__generated_with = "0.14.16"
+app = marimo.App(width="medium")
+
+
+@app.cell
+def _():
+    return
+
+
+@app.cell
+def _():
+    return
+
+
+@app.cell(hide_code=True)
+def _():
+    return
+
+
+if __name__ == "__main__":
+    app.run()
